@@ -10,3 +10,7 @@ font-size: 120%;
         align-items: center;
         text-align: center;
     }
+
+    :root {
+        --cor-de-fundo: #69c6ff;
+        --branco: #ffffff;
