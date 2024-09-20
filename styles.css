@@ -42,6 +42,9 @@ font-size: 120%;
     
 }
 
+.cartao__conteudo__resposta p {
+    color: var(--card-back-color);
+    }
 
     footer {
         background-color: black;
