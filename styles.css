@@ -15,3 +15,15 @@ font-size: 120%;
         --cor-de-fundo: #69c6ff;
         --branco: #ffffff;
     }
+
+    footer {
+        background-color: black;
+        color: white;
+        position: fixed;
+        bottom: 0;
+        }
+
+        body {
+            background-color: bisque;
+            font-family: Bai Jamjuree;
+            }
