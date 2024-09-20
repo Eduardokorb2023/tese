@@ -11,11 +11,6 @@ font-size: 120%;
         text-align: center;
     }
 
-    :root {
-        --cor-de-fundo: #69c6ff;
-        --branco: #e21515;
-    }
-
     footer {
         background-color: black;
         color: white;
