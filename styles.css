@@ -13,7 +13,7 @@ font-size: 120%;
 
     :root {
         --cor-de-fundo: #69c6ff;
-        --branco: #ffffff;
+        --branco: #e21515;
     }
 
     footer {
@@ -32,6 +32,6 @@ font-size: 120%;
         }
 
         body {
-            background-color: bisque;
+            background-color: rgb(81, 71, 221);
             font-family: Bai Jamjuree;
             }
